@@ -12,4 +12,4 @@ This repository consists of a template for building a SwiftUI iOS app in Xcode.
 ## Source of Truth
 
 - Product/app requirements: `example-project/instructions/instructions.mdc`
-- AI behavior and coding guidance: `AGENTS.md` and `.cursor/rules/*.mdc`
+- AI coding rules and behaviour rules: `AGENTS.md` and `.cursor/rules/*.mdc`
